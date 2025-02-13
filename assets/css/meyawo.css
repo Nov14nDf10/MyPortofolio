@@ -11665,7 +11665,7 @@ p {
 
 /* blog wrapper */
 .blog-card {
-  height: 300px;
+  height: auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -11712,7 +11712,7 @@ p {
 }
 
 .blog-card-body {
-  padding: 50px 20px 10px 20px;
+  margin: 60px 30px;
 }
 
 .blog-card-title {
@@ -12649,6 +12649,7 @@ pre .code {
 
 .section-sm {
   padding: 40px 0 !important;
+  margin-top: 40px;
 }
 
 .section-md {
