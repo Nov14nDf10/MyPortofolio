@@ -12481,7 +12481,10 @@ pre .code {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  width: 100vw; /* Ensure the header takes full width on mobile */
+  overflow: hidden; /* Prevent overflow issues */
 }
+
 
 .header .overlay {
   position: absolute;
