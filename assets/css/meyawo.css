@@ -12507,7 +12507,7 @@ pre .code {
 }
 
 .header .header-content {
-  margin-right: 5%;
+  margin: 0 auto;
   margin-top: 20px;
   -webkit-box-flex: 1;
   -webkit-flex-grow: 1;
